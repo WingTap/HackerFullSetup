@@ -1,0 +1,1 @@
+This Is For Linux Mint. All You Have To Do Is Move All The Files From The .Zip File To The Home Folder. Then Open A Terminal Then Type ./IP_ScanSetup.sh That Should Give Enough Info From There.
